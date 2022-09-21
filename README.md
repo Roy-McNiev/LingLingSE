@@ -8,7 +8,6 @@ A classical music search engine
 * [License](#License)
 * [Technologies](#Technologies)
 * [Setup](#Setup)
-* [Sources](#Sources)
 
 ## Background
 
@@ -31,6 +30,3 @@ This project was created using:
 
 ## Setup
 To set up the project, you will have to install JDK 8.0 or a newer version. You will have to run the main method in the Calculator class.
-
-## Sources
-The method used in this project of handling operators is inspired by [@久曲健的测试窝](https://www.cnblogs.com/longronglang/p/13693065.html?ivk_sa=1024320u).
