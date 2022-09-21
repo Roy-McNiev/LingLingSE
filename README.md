@@ -23,7 +23,7 @@ If you feel you can contribute to this project, or just simple wanted to comment
 * Supports the calculation with negative numbers
 
 ## License
-This project is licensed under the terms of MIT license
+This project is licensed under the terms of BSD 3-Clause License.
 
 ## Technologies
 This project was created using:
