@@ -10,7 +10,7 @@ A classical music search engine
 * [Setup](#Setup)
 
 ## Background
-
+For a long time it has been hard for classical music fans to search for classical music on any search engines. As described in a section in this video (https://www.youtube.com/watch?v=hgzPQCi-Xuo) made by TwoSetViolin, a prototype of this engine was carried out, which involves searching for classical music by pitch.
 
 ## Contact
 If you feel you can contribute to this project, or just simple wanted to comment on it, here is my email: [roy.mcniev@gmail.com](roy.mcniev@gmail.com)
